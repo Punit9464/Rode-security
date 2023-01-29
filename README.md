@@ -20,10 +20,13 @@ Requires - Node js version 16
   npm install
 ```
 
-after installation just fillout .env file Check out the example.env file for reference
+##.env format
+token = your token here
+mongourl = your mongo url here
 
+## Startup
+After installation just fillout .env file Check out the example.env file for reference
 Or you may fill up config.js file inside src folder
-
 To start with just type in your console or terminal
 
 ```bash
