@@ -20,12 +20,11 @@ Requires - Node js version 16
   npm install
 ```
 
-after installation just fillout the config.json file 
+after installation just fillout .env file Check out the example.env file for reference
 
+Or you may fill up config.js file inside src folder
 
-![config.json](https://media.discordapp.net/attachments/1068114938888982579/1069146869927784520/image.png)
-    
-to start with just type in your console or terminal
+To start with just type in your console or terminal
 
 ```bash
 node .
