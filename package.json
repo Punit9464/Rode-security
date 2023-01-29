@@ -14,7 +14,8 @@
   "description": "A well developed advanced security discord bot yet powerful",
   "main": "src/app.js",
   "scripts": {
-    "test": "src/app.js"
+    "test": "src/app.js",
+    "start": "src/app.js"
   },
   "repository": {
     "type": "git",
