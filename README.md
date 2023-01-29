@@ -20,7 +20,7 @@ Requires - Node js version 16
   npm install
 ```
 
-##.env format
+## Env Format
 token = your token here
 mongourl = your mongo url here
 
