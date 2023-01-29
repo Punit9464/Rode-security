@@ -21,8 +21,10 @@ Requires - Node js version 16
 ```
 
 ## Env Format
+```bash
 token = your token here
 mongourl = your mongo url here
+```
 
 ## Startup
 After installation just fillout .env file Check out the example.env file for reference
