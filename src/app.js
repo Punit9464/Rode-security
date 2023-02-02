@@ -1,5 +1,5 @@
 const { Client , Collection , MessageEmbed , WebhookClient , ShardingManager } = require("discord.js");
-const { mongoURL1 , mongoURL2 , mongoURL3 , token , webhook_error } = require("./config.json");
+const { mongoURL1 , mongoURL2 , mongoURL3 , token , webhook_error } = require("./config.js");
 const { Database } = require("quickmongo");
 const ascii = require("ascii-table");
 const Commandtable = new ascii().setHeading("Message Commands","Status");
