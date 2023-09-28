@@ -1,7 +1,7 @@
 {
   "dependencies": {
     "ascii-table": "^0.0.9",
-    "discord.js": "^13.12.0",
+    "discord.js": "^13.16.0",
     "dotenv": "^16.0.3",
     "fs": "^0.0.1-security",
     "indomitable": "^2.0.3",
