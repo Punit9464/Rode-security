@@ -30,7 +30,7 @@ node .
 ```
 ## Authors
 
-- [@~ Punit_xD🥀#5834](https://discord.gg/aCbF3kPjMz)
+- [@~ Punit](https://discord.gg/aCbF3kPjMz)
 
 
 ## Support
